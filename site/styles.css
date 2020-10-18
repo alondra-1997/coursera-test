@@ -1,0 +1,38 @@
+.number{
+			padding: 5px;
+			margin: 5px;
+			border: solid 1px;
+			background: #FCED91 ;
+			color: #000000 ;
+		}
+.titulo1{
+			padding: 5px;
+			margin: 5px 5px 5px 525px; 
+			width:80px;
+			border: solid 1px;
+			background: #177480 ;
+			color: #ffffff ;
+			text-align: center;
+			position: right;
+		}
+.titulo2{
+			padding: 5px;
+			margin: 5px 5px 5px 525px;
+			width:80px;
+			border: solid 1px;
+			background: #801742 ;
+			color: #ffffff ;
+			text-align: center;
+		}
+.titulo3{
+			padding: 5px;
+			margin: 5px 5px 5px 525px;
+			width:80px;
+			border: solid 1px;
+			background: #178049 ;
+			color: #ffffff ;
+			text-align: center;
+		}
+h1{
+	text-align: center;
+}
